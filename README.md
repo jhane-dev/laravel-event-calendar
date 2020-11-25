@@ -9,7 +9,9 @@
 
 ## Installation
 
-first thing to do is to run migratiob
+php artisan migrate
+
+php artisan serve
 
 ## About Laravel
 
